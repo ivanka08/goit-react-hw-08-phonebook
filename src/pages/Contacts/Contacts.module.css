@@ -1,0 +1,18 @@
+.container {
+  width: 400px;
+  margin: auto;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 26px;
+  font-weight: 900;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.icon {
+  margin-left: 10px;
+  vertical-align: bottom;
+}

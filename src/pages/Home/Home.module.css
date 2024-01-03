@@ -1,0 +1,25 @@
+.container {
+  height: 50vh;
+  text-align: center;
+  position: relative;
+}
+
+.title {
+  margin-top: 60px;
+  font-size: 34px;
+  line-height: 2.3rem;
+}
+
+.icon {
+  margin-top: 20px;
+  font-size: 40px;
+  color: rgb(49, 83, 91);
+}
+
+.caption {
+  position: absolute;
+  bottom: 0;
+  left: 140px;
+  font-size: 14px;
+  color: rgb(49, 83, 91);
+}

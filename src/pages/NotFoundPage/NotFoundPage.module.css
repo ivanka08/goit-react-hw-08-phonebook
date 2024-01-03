@@ -1,0 +1,36 @@
+.container {
+  padding: 16px 30px;
+  text-align: center;
+}
+
+.message {
+  height: 50vh;
+  font-size: 46px;
+  color: rgba(188, 188, 188, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.link {
+  padding: 10px 20px;
+
+  color: inherit;
+  font-size: 22px;
+  font-weight: 500;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
+  transition: all 250ms linear;
+}
+
+.icon {
+  margin-left: 15px;
+  font-size: 30px;
+  vertical-align: text-bottom;
+}
+
+.link:hover {
+  border: 3px solid rgb(0, 0, 0);
+  background-color: greenyellow;
+}
